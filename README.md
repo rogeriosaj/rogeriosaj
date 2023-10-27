@@ -1,9 +1,9 @@
 ### Hello there, glad to see you here! 🖖🏻
 ### Olá, que bom ver você aqui! 🖖🏻
 
-- 📚 College Student, third semester 
+- 📚 College Student 
 
-- 💻 I’m currently studying at [UENP](https://uenp.edu.br/)
+- 💻 I’m currently at [UENP](https://uenp.edu.br/)
 
 - ⭐ Fun fact > **Redeyes 🔴**
 
