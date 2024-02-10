@@ -5,8 +5,6 @@
 
 - 💻 I’m currently at [UENP](https://uenp.edu.br/)
 
-- ⭐ Fun fact > **Redeyes 🔴**
-
 - 💡 Learning ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp; and ![C](https://img.shields.io/badge/--05122A?style=flat&logo=c)&nbsp;
 
 <br><br>
